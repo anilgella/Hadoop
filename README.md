@@ -6,3 +6,4 @@ hdfs dfs -rm :- to delete file from hdfs location
 #this is rergarding testing hdfs dfs commands"
 #this is regarding second testing"
 #this is fourth command that i amtesting"
+## this is pull testing
